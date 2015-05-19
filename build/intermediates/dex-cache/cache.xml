@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kevintanhongann/ShowcaseView/sample/build/intermediates/exploded-aar/ShowcaseView/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="07057771e6e4b2488fb17c7407b7a59812769a77">
+        <dex dex="/Users/kevintanhongann/ShowcaseView/sample/build/intermediates/pre-dexed/debug/classes-db373e76d01c947edabdf4e703266458af3adf72.jar" />
+    </item>
+    <item
+        jar="/Users/kevintanhongann/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/kevintanhongann/ShowcaseView/sample/build/intermediates/pre-dexed/debug/library-2.4.0-09bc2ccd2f9f4021f9cfad6893a11393c4a9f1f5.jar" />
+    </item>
+
+</items>
